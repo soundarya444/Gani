@@ -1,4 +1,4 @@
 #gani
-n=int(input())
-for i in range(n):
+N=int(input())
+for i in range(N):
     print("Hello")
