@@ -7,6 +7,6 @@ while (n>0):
     rev=rev*10+r
     n=n//10
 if(N==rev):
-    print("palindrome")
+    print("yes")
 else:
-    print("not palindrome")
+    print("no")
