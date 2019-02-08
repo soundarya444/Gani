@@ -1,3 +1,4 @@
+#gani
 sum=0
 x=input().split()
 y=input().split()
